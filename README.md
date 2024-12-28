@@ -1,5 +1,5 @@
 # Responsive Login Form
-## [LIVE PREVIEW](https://amanayak.github.io/Create-Responsive-Login-Form/)
+## [LIVE PREVIEW](https://codinggujaratweb.github.io/Create-Responsive-Login-Form/)
 ### Responsive Login Form
 
 - Responsive Animated Login Form Using HTML CSS & JAVASCRIPT
